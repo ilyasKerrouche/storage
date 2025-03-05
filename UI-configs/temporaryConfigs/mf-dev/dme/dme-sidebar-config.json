@@ -1,6 +1,6 @@
 {
   "mf": "Sidebar",
-  "api": "https://dme-api.dev-digital-enabler.eng.it/api",
+  "api": "http://localhost:8082/api",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
   "jsonTools": "https://raw.githubusercontent.com/digital-enabler/UI-Configs/main/mf-dev/common/services.json",
   "links": [

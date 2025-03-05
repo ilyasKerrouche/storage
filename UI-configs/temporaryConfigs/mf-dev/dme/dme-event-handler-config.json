@@ -1,4 +1,4 @@
 {
     "mf": "Event Handler",
-    "api": "https://dme-api.dev-digital-enabler.eng.it/api"
+    "api": "http://localhost:8082/api"
 }
