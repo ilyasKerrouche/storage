@@ -1,5 +1,0 @@
-{
-    "mf": "Datasources List",
-    "api": "http://localhost:8082/api/v3",
-    "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
-}
