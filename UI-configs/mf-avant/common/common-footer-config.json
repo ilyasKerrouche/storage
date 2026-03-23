@@ -1,5 +1,6 @@
 {
-  "mf": "Footer",
-  "api": "",
-  "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
+    "name": "Footer",
+    "mf": "demf-footer",
+    "api": "",
+    "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
 }
