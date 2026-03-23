@@ -1,6 +1,6 @@
 {
     "name": "Footer",
     "mf": "demf-footer",
-    "api": "https://1134-95-247-80-54.ngrok-free.app/api/v1",
+    "api": "//localhost:8082/api/v1",
     "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
 }
