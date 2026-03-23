@@ -4,7 +4,7 @@
   "api":"//localhost:8082/api/v1",
   "keycloak":{
     "url":"https://idm.digital-enabler.eng.it/auth",
-    "clientId":"rule-app-local",
-    "enabled":false
+    "clientId":"rule-app",
+    "enabled": true
   }
 }
