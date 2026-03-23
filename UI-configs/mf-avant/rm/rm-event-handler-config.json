@@ -1,4 +1,4 @@
 {
   "mf": "Event Handler",
-  "api": "https://564e-95-247-80-54.ngrok-free.app/api/v1"
+  "api": "//localhost:8082/api/v1"
 }
